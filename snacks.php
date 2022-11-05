@@ -1,6 +1,5 @@
 <?php
 
-
 function createProduct(string $name, int $price): stdClass
 {
     $product = new stdClass();
